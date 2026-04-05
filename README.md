@@ -1,3 +1,4 @@
+# INTELLECTUAL PROPERTY OF VIRUJ THAKUR BHAIYA WITH 37CGP (GICENCE)
 # Patent Studio
 
 A beautiful, locally-hosted patent analysis and Q&A application built with Streamlit and Ollama. Upload patent links from Excel, download full documents, auto-summarize them, and chat with individual patents using retrieval-augmented generation (RAG).
@@ -296,3 +297,5 @@ For issues or questions:
 ---
 
 **Built with ❤️ using Streamlit + Ollama**
+
+# INTELLECTUAL PROPERTY OF VIRUJ THAKUR BHAIYA WITH 37CGP (GICENCE)

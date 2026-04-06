@@ -1,4 +1,5 @@
 When does generative AI qualify for fair use?
+https://suchir.net/fair_use.html##
 
 Suchir Balaji
 
